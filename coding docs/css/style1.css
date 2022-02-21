@@ -1,0 +1,39 @@
+h1 {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(230, 212, 169);
+    padding: 40px;
+    border-radius: 20px;
+}
+
+body {
+    background-color: rgba(222, 238, 237, 0.966);
+    font-size: 15px;
+    color: rgb(13, 13, 14);
+    font-family: sans-serif;
+    margin-bottom: 100px;
+    margin-top: 0px;
+}
+
+.boxone {
+    background-image: url(../img/jason-briscoe-amLfrL8LGls-unsplash.jpg);
+    padding: 100px;
+    margin-top: 50px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    float: right;
+}
+
+a:hover {
+    color: chartreuse
+}
+
+h2 {
+    background-color: rgb(235, 151, 92);
+    padding: 15px;
+    float: left;
+}
